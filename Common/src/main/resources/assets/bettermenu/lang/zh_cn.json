@@ -1,0 +1,14 @@
+{
+  "text.autoconfig.yungsmenutweaks-fabric-1_20_1.title": "YUNG的菜单调整",
+  "text.autoconfig.yungsmenutweaks-fabric-1_20_1.option.yungsMenuTweaks.enableRightClickCycleButton": "右键反转循环按钮",
+  "text.autoconfig.yungsmenutweaks-fabric-1_20_1.option.yungsMenuTweaks.enableRightClickCycleButton.@Tooltip": "允许右键单击以向后循环浏览某些按钮。",
+  "text.autoconfig.yungsmenutweaks-fabric-1_20_1.option.yungsMenuTweaks.enableMouseScrollOnSliders": "鼠标滚轮影响滑块",
+  "text.autoconfig.yungsmenutweaks-fabric-1_20_1.option.yungsMenuTweaks.enableMouseScrollOnSliders.@Tooltip[0]": "当鼠标悬停在滑块上时，",
+  "text.autoconfig.yungsmenutweaks-fabric-1_20_1.option.yungsMenuTweaks.enableMouseScrollOnSliders.@Tooltip[1]": "允许滑动鼠标滚轮以使用滑块修改选项。",
+  "text.autoconfig.yungsmenutweaks-fabric-1_20_1.option.yungsMenuTweaks.enableBackgroundTexture": "启用自定义背景纹理",
+  "text.autoconfig.yungsmenutweaks-fabric-1_20_1.option.yungsMenuTweaks.enableBackgroundTexture.@Tooltip[0]": "若启用，将尽可能使用自定义背景纹理。",
+  "text.autoconfig.yungsmenutweaks-fabric-1_20_1.option.yungsMenuTweaks.enableBackgroundTexture.@Tooltip[1]": "使用的纹理由下方的“自定义背景纹理”选项指定。",
+  "text.autoconfig.yungsmenutweaks-fabric-1_20_1.option.yungsMenuTweaks.backgroundTexture": "自定义背景纹理",
+  "text.autoconfig.yungsmenutweaks-fabric-1_20_1.option.yungsMenuTweaks.backgroundTexture.@Tooltip[0]": "用作自定义背景的16x16纹理，取代经典的泥土。",
+  "text.autoconfig.yungsmenutweaks-fabric-1_20_1.option.yungsMenuTweaks.backgroundTexture.@Tooltip[1]": "仅当“启用自定义背景纹理”选项为“是”时才会生效。"
+}
